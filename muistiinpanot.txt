@@ -1,3 +1,5 @@
 Muistiinpanoja gitistä
 
 - git init luo repositorion
+- git add lisää muutokset staging-alueelle
+- git commit tallentaa muutokset historiaan
