@@ -3,3 +3,6 @@ Muistiinpanoja gitistä
 - git init luo repositorion
 - git add lisää muutokset staging-alueelle
 - git commit tallentaa muutokset historiaan
+- git status näyttää työhakemiston tilan
+- git log näyttää historian
+- git push lähettää muutokset remoteen

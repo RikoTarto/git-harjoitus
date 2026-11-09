@@ -1,3 +1,4 @@
 Ostoslista
 - maito
-- leipä
+- ruisleipä
+- kahvi
